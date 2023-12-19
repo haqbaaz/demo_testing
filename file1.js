@@ -1,1 +1,5 @@
-console.log
+class animal {
+    move() {
+        console.log('move');
+    }
+}
